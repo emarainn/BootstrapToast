@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BootstrapToast/static/css/main.86b6a515.css",
+    "main.js": "/BootstrapToast/static/js/main.c7b6c2e7.js",
+    "static/js/453.631cd7e1.chunk.js": "/BootstrapToast/static/js/453.631cd7e1.chunk.js",
+    "index.html": "/BootstrapToast/index.html",
+    "main.86b6a515.css.map": "/BootstrapToast/static/css/main.86b6a515.css.map",
+    "main.c7b6c2e7.js.map": "/BootstrapToast/static/js/main.c7b6c2e7.js.map",
+    "453.631cd7e1.chunk.js.map": "/BootstrapToast/static/js/453.631cd7e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86b6a515.css",
+    "static/js/main.c7b6c2e7.js"
+  ]
+}
